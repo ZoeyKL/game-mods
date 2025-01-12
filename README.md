@@ -55,7 +55,7 @@ If you enjoy my mods and would like to support my efforts, you can:
 ## 📢 Stay Connected  
 
 Follow me on social media or join my modding communities for updates and sneak peeks:  
-- Bluesky: [@YourHandle]([https://twitter.com/yourhandle](https://bsky.app/profile/zoeykl.bsky.social))   
+- Bluesky: [@ZoeyKL](https://bsky.app/profile/zoeykl.bsky.social)   
 
 ---
 
