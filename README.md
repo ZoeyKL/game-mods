@@ -12,7 +12,9 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 
 ### Fallout 4 Mods  
 - **[Fallout 4 Tweaks](https://github.com/ZoeyKL/game-mods/releases/tag/fallout4tweaks)**  
-  Add a variety of personal gameplay tweaks  
+  Add a variety of personal gameplay tweaks
+- **[Wastelanders](https://github.com/ZoeyKL/game-mods/releases/tag/fo4-wastelanders)**  
+  DLC sized mod that adds 10 bosses, new locations, armor, weapons, and more
 
 ### BeamNG.drive Mods  
 - **[Custom Truck Physics](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
