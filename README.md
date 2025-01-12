@@ -4,7 +4,7 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 
 ---
 
-## 🔗 Featured Mods (these are all placeholders and do not actually exist)  
+## 🔗 Featured Mods
 
 ### Skyrim Mods  
 - **[Greataxe of the Crescent Moon](https://github.com/ZoeyKL/game-mods/releases/tag/skyrim-greataxe-le)**  
