@@ -7,8 +7,8 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 ## 🔗 Featured Mods (these are all placeholders and do not actually exist)  
 
 ### Skyrim Mods  
-- **[Enhanced Dragon AI](https://github.com/FoxxxyLady2293/skyrim-dragon-ai)**  
-  Give dragons a real challenge factor with smarter behaviors and combat tactics.  
+- **[Greataxe of the Crescent Moon](https://github.com/ZoeyKL/game-mods/releases/tag/skyrim-greataxe-le)**  
+  A new greataxe in the Dawnguard DLC
 
 ### Fallout 4 Mods  
 - **[Fallout 4 Tweaks](https://github.com/ZoeyKL/game-mods/releases/tag/fallout4tweaks)**  
