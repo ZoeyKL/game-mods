@@ -11,14 +11,12 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
   Give dragons a real challenge factor with smarter behaviors and combat tactics.  
 
 ### Fallout 4 Mods  
-- **[Fallout 4 Tweaks]([https://github.com/FoxxxyLady2293/wasteland-weapon-expansion](https://github.com/ZoeyKL/game-mods/releases/tag/fallout4tweaks))**  
+- **[Fallout 4 Tweaks](https://github.com/ZoeyKL/game-mods/releases/tag/fallout4tweaks)**  
   Add a variety of personal gameplay tweaks  
 
 ### BeamNG.drive Mods  
-- **[Custom Truck Physics](https://github.com/FoxxxyLady2293/custom-truck-physics)**  
-  Fine-tune suspension, weight, and damage models for more realistic truck driving.  
-- **[High-Detail Racing Tracks](https://github.com/FoxxxyLady2293/high-detail-racing-tracks)**  
-  Add new racing circuits with detailed environments and dynamic elements.  
+- **[Custom Truck Physics](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
+  1980s sythwave supercar icon  
 
 ---
 
