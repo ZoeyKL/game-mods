@@ -48,7 +48,7 @@ Yes, my mods are free to download and use, but I always appreciate support throu
 If you enjoy my mods and would like to support my efforts, you can:  
 - **Leave feedback**: Your thoughts and suggestions help me improve my creations.  
 - **Share my mods**: Spread the word and help others discover them.  
-- **Contribute donations**: Visit my [Patreon](https://patreon.com/) or [Ko-fi](https://ko-fi.com/) page to support me directly.  
+- **Contribute donations**: Visit my [Patreon](https://www.patreon.com/c/RedFoxOfTheEast) page to support me directly.  
 
 ---
 
