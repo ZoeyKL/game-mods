@@ -9,6 +9,8 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 ### Skyrim Mods  
 - **[Greataxe of the Crescent Moon](https://github.com/ZoeyKL/game-mods/releases/tag/skyrim-greataxe-le)**  
   A new greataxe in the Dawnguard DLC
+- **[Skyrim Content Compendium](https://github.com/ZoeyKL/game-mods/releases/tag/skyrim-contentcompendium-le)**  
+  All of my Skyrim armors and weapons in one package
 
 ### Fallout 4 Mods  
 - **[Fallout 4 Tweaks](https://github.com/ZoeyKL/game-mods/releases/tag/fallout4tweaks)**  
