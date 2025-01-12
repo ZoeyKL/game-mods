@@ -17,7 +17,7 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
   DLC sized mod that adds 10 bosses, new locations, armor, weapons, and more
 
 ### BeamNG.drive Mods  
-- **[Custom Truck Physics](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
+- **[Famdorchini Factor2](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
   1980s sythwave supercar icon  
 
 ---
