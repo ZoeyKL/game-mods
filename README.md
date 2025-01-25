@@ -22,7 +22,7 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 - **[Famdorchini Factor2](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
   1980s sythwave supercar icon
 - **[Famdorchini Airesuqque RRR CF 2023](https://github.com/ZoeyKL/game-mods/releases/tag/airesuqque)**  
-  1980s sythwave supercar icon  
+  2020s custom front engine supercar   
 
 ---
 
