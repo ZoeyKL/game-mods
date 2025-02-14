@@ -18,7 +18,7 @@ Welcome to my GitHub page, where I showcase the mods I've developed for some of 
 - **[Wastelanders](https://github.com/ZoeyKL/game-mods/releases/tag/fo4-wastelanders)**  
   DLC sized mod that adds 10 bosses, new locations, armor, weapons, and more
 - **[Laser Musket Mark 2](https://github.com/ZoeyKL/game-mods/releases/tag/fo4-lmm2)**
-  New weapon to supercede the vanilla variant with world integration and a complex mod system
+    New weapon to supercede the vanilla variant with world integration and a complex mod system
 
 ### BeamNG.drive Mods  
 - **[Famdorchini Factor2](https://github.com/ZoeyKL/game-mods/releases/tag/factor2)**  
